@@ -1,4 +1,4 @@
-### *Module 11 Mars News Articles and Weather - Web-scraping and Data Analysis Project *
+### *Module 11: Mars News Articles and Weather, Web-scraping and Data Analysis Project*
 
 :new_moon: # **Overview:**
 This repo contains a web-scraping and data analysis project focusing on Mars exploration data. 
